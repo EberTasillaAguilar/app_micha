@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lector Bluetooth HC-05</string>
+    <string name="status_disconnected">Desconectado</string>
+    <string name="status_connecting">Conectando...</string>
+    <string name="status_connected">Conectado</string>
+    <string name="btn_select_device">Seleccionar Dispositivo</string>
+    <string name="btn_disconnect">Desconectar</string>
+    <string name="btn_clear">Limpiar</string>
+    <string name="btn_save_file">Guardar Archivo</string>
+    <string name="btn_view_files">Ver Archivos</string>
+    <string name="device_not_selected">Ningún dispositivo seleccionado</string>
+    <string name="received_data_title">Monitor de Datos Recibidos</string>
+    <string name="bytes_received_format">Bytes: %1$d</string>
+    <string name="auto_scroll">Auto-scroll</string>
+    <string name="hex_mode">HEX</string>
+    <string name="dialog_select_device_title">Dispositivos Bluetooth Vinculados</string>
+    <string name="no_paired_devices">No hay dispositivos vinculados. Vincula tu módulo HC-05 desde los Ajustes de Bluetooth del teléfono primero.</string>
+    <string name="dialog_save_title">Guardar datos en archivo</string>
+    <string name="hint_filename">nombre_archivo.txt</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="file_saved_success">Archivo guardado con éxito en Documentos</string>
+    <string name="file_saved_error">Error al guardar el archivo</string>
+    <string name="connection_failed">No se pudo conectar al HC-05</string>
+    <string name="connection_lost">Se perdió la conexión con el HC-05</string>
+</resources>
